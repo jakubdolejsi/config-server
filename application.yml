@@ -1,5 +1,3 @@
 db:
-  connectionsuper:
-    - strong connection string
-  name:
-    - my fakin cool name
+  connection: strong connection string
+  name: XXXX
