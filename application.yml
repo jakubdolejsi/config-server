@@ -1,2 +1,3 @@
 db:
-  greeteing: Hello my friend
+  connection: super strong connection string
+  name: my fakin cool name
