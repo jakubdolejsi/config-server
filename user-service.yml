@@ -3,7 +3,7 @@ server:
 
 db:
   connection: user service specific connection string
-  name: helou helou
+  name: pa pa a goodbey
 
 my:
   test: it really works man
