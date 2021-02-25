@@ -3,4 +3,4 @@ server:
 
 db:
   connection: user service specific connection string
-  name: Moja uzasna servisa
+  name: Ja mam super jmeno
