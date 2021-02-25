@@ -3,4 +3,4 @@ server:
 
 db:
   connection: user service specific connection string
-  name: A
+  name: B
