@@ -2,7 +2,7 @@ server:
   port: 8081
 
 db:
-  connection: user service specific connection string
+  connection: Tohle jde automatizovane pres kafku
   name: tohle jde z mainu
 
 my:
